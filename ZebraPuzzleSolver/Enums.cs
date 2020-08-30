@@ -15,7 +15,7 @@
         Silber,
         Blau,
         Braun,
-        Gürn
+        Grün
     }
 
     enum Job
